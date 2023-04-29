@@ -1,16 +1,22 @@
-### Hi there 👋
+### :person_curly_hair: thaynansilva
 
-<!--
-**thaynansilva/thaynansilva** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Greetings!
 
-Here are some ideas to get you started:
+My name is Thaynan (pronounced `ta.ee.nan`), and I go by any pronouns.
+I'm a young programmer, currently coursing Computer Science. 
+I love listening to music, playing retro games, computing and programming.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+These are my favorite programming languages: C, Java, and Python.
+
+### :diamonds: Projects
+
+I'm working on some personal projects:
+- libclassy: a small object system for the C programming language;
+- clover: a very cool cross-platform programming language.
+
+I'm also idealizing some apps for GNOME (my favorite desktop environment!)
+
+### :sparkles: Curiosity
+
+I'm interested in various things and can find even more interests with
+the right motivation.
