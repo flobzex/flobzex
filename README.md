@@ -3,18 +3,18 @@
 Greetings!
 
 My name is Thaynan (pronounced `ta.ee.nan`), and I go by any pronouns.
-I'm a young programmer, currently coursing Computer Science. 
-I love listening to music, playing retro games, computing and programming.
 
-These are my favorite programming languages: C, Java, and Python.
+Here are a few things about me:
+- I'm currently coursing Computer Science;
+- I love listening to music, playing retro videogames, computing and programming;
+- My favorite programming languages are: C, Java, Kotlin and Python.
 
 ### :diamonds: Projects
 
-I'm working on some personal projects:
-- libclassy: a small object system for the C programming language;
+I'm working on the following personal projects:
 - clover: a very cool cross-platform programming language.
 
-I'm also idealizing some apps for GNOME (my favorite desktop environment!)
+(I'm also idealizing some apps for GNOME, my fav DE!)
 
 ### :sparkles: Curiosity
 
