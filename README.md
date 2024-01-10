@@ -1,20 +1,20 @@
-### :person_curly_hair: thaynansilva
+### :alien: About me
 
 Greetings!
 
-My name is Thaynan (pronounced `ta.ee.nan`), and I go by any pronouns.
+My name is Thaynan (pronounced `ta.ee.nan`), and my pronouns are he/they.
 
 Here are a few things about me:
 - I'm currently coursing Computer Science;
 - I love listening to music, playing retro videogames, computing and programming;
-- My favorite programming languages are: C, Java, Kotlin and Python.
+- My favorite programming languages are: C, Java, Kotlin and Python;
+- I speak Portuguese (my first language) and English (my second language).
 
 ### :diamonds: Projects
 
-I'm working on the following personal projects:
-- clover: a very cool cross-platform programming language.
+I'm more active in my GitLab account. I have some projects there!
 
-(I'm also idealizing some apps for GNOME, my fav DE!)
+- [Visit my GitLab account](https://gitlab.com/piskomauz)
 
 ### :sparkles: Curiosity
 
