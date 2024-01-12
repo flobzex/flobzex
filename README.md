@@ -10,11 +10,12 @@ Here are a few things about me:
 - My favorite programming languages are: C, Java, Kotlin and Python;
 - I speak Portuguese (my first language) and English (my second language).
 
-### :diamonds: Projects
+### :diamonds: Find me
 
-I'm more active in my GitLab account. I have some projects there!
+I'm more active in my GitLab. I have some projects there! I'm also on Mastodon!
 
-- [Visit my GitLab account](https://gitlab.com/piskomauz)
+- [GitLab](https://gitlab.com/piskomauz)
+- <a rel="me" href="https://mastodon.social/@piskomauz">Mastodon</a>
 
 ### :sparkles: Curiosity
 
