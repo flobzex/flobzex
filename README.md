@@ -15,9 +15,8 @@ Here are a few things about me:
 I'm more active in my GitLab. I have some projects there! I'm also on Mastodon!
 
 - [GitLab](https://gitlab.com/piskomauz)
-- <a rel="me" href="https://tech.lgbt/@piskomauz">Mastodon</a>
+- <a rel="me" href="https://mastodon.social/@flobzex">Mastodon</a>
 
 ### :sparkles: Curiosity
 
-I'm interested in various things and can find even more interests with
-the right motivation.
+I've been designing some cool projects. They should pop up somewhere when ready :D
