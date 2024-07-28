@@ -15,7 +15,7 @@ Here are a few things about me:
 I'm more active in my GitLab. I have some projects there! I'm also on Mastodon!
 
 - [GitLab](https://gitlab.com/piskomauz)
-- <a rel="me" href="https://tech.lgbt/piskomauz">Mastodon</a>
+- <a rel="me" href="https://tech.lgbt/@piskomauz">Mastodon</a>
 
 ### :sparkles: Curiosity
 
